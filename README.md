@@ -33,7 +33,7 @@ Below are examples of how the same letter can appear differently when written by
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/beyzanurkeskin/YZV303E_TermProject_BEEB.git
+   git clone https://github.com/ezgi-aslan/Handwritten-Letter-and-Person-Recognition-Project.git
    ```
    
 4. Install dependencies:
