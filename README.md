@@ -18,11 +18,11 @@ The dataset consists of handwritten letters collected from **56 individuals** us
 - Participants also provided signature consent in accordance with **KVKK (Turkish Data Protection Law)**.
 
 📥 [Download the Dataset](https://drive.google.com/drive/folders/1x8znRCDLU_i7m5WmKqC_xjEyDXnNW3yR?usp=sharing)
-![Dataset Structure](assets/dataset_structure.png)
+![Dataset Structure](assets/structure.png)
 
 Below are examples of how the same letter can appear differently when written by different individuals. These variations highlight the diversity in handwriting styles and the importance of a robust recognition model capable of handling such differences.
 
-![Samples from Dataset](assets/data_sample.png)
+![Samples from Dataset](assets/sample_data.png)
 
 ## 🔧 Installation
 
