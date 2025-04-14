@@ -30,5 +30,12 @@ Clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/beyzanurkeskin/YZV303E_TermProject_BEEB.git
+```
+
+```bash
 cd YZV303E_TermProject_BEEB
+```
+
+```bash
 pip install tensorflow scikit-learn keras Pillow numpy matplotlib seaborn visualkeras opencv-python joblib
+```
